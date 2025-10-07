@@ -33,13 +33,6 @@ This space showcases my journey as a data-driven problem solver.
 
 ---
 
-## 📚 Certifications & Learning
-- 🎓 **Google Data Analytics Certificate** *(in progress or completed)*  
-- 🧠 SQL & Data Visualization Courses on Coursera / Kaggle  
-- 💻 Hands-on projects in Power BI, Excel, and Apps Script
-
----
-
 ## 📫 Let’s Connect
 - 💼 [LinkedIn](https://linkedin.com/in/jannellefranco)  
 - 📧 **jnnellefrnco@gmail.com**  
