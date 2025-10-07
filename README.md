@@ -1,16 +1,49 @@
-## Hi there 👋
+# 👋 Hi, I'm Jannelle Franco
+💡 *Aspiring Data & Systems Analyst | Tech Explorer | Continuous Learner*
 
-<!--
-**jannellefranco/jannellefranco** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub portfolio!  
+I’m passionate about turning data into meaningful insights and improving systems that make work more efficient.  
+This space showcases my journey as a data-driven problem solver.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧠 About Me
+- 🎓 **Information Technology Graduate** with a strong foundation in analytics and system design  
+- 📊 Enthusiastic about **data visualization, process improvement, and automation**  
+- 💻 Exploring the bridge between **Data Analysis** and **System Analysis**  
+- 🌱 Currently learning: *Advanced SQL, Power BI DAX, and Apps Script integrations*  
+
+
+---
+
+## 🧰 Tech Stack
+
+**Languages & Tools:**  
+`Python` `SQL` `Power BI` `Tableau` `Excel` `Google Sheets` `Apps Script` `AppSheet` `Git`  
+
+**Other Skills:**  
+`Data Cleaning` `Visualization` `System Documentation` `Process Mapping` `SDLC` `Stakeholder Communication`
+
+---
+
+## 🌟 Highlights
+- 🏆 Created data dashboards that turned raw data into actionable insights  
+- 🧩 Collaborated on system improvement projects during academic and internship experiences  
+- ⚙️ Familiar with both **data workflows** and **system requirements gathering**
+
+---
+
+## 📚 Certifications & Learning
+- 🎓 **Google Data Analytics Certificate** *(in progress or completed)*  
+- 🧠 SQL & Data Visualization Courses on Coursera / Kaggle  
+- 💻 Hands-on projects in Power BI, Excel, and Apps Script
+
+---
+
+## 📫 Let’s Connect
+- 💼 [LinkedIn](https://linkedin.com/in/jannellefranco)  
+- 📧 **jnnellefrnco@gmail.com**  
+
+---
+
+Thanks for visiting my portfolio! Feel free to explore my repositories or connect with me.
